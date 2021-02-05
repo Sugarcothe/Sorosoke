@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\React\\lareact"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Loan Calculator",
+		"git.ignoreLimitWarning": true
+	}
+}
